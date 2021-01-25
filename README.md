@@ -1,4 +1,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Rodolfo%20Gabriel-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodolfo-gabriel/)](https://www.linkedin.com/in/rodolfo-gabriel/) 
+[![Gmail Badge](https://img.shields.io/badge/-rdlfgbrl@outlook.com-6633cc?style=flat-square&logo=Outlook&logoColor=white&link=mailto:rdlfgbrl@outlook.com)](mailto:rdlfgbrl@outlook.com)
 
 <!--
 **rodgabriel/rodgabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
