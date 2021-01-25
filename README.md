@@ -2,20 +2,13 @@
 
 ### Desenvolvedor Front End
 
+Desenvolvedor self-taught. Entusiasta das tecnologias para desenvolvimento web com uma veia para o design.
+
+Principais tecnologias:
+- React
+- NODEJS
+- MongoDB
+- Firebase
+
 [![Linkedin Badge](https://img.shields.io/badge/-Rodolfo%20Gabriel-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodolfo-gabriel/)](https://www.linkedin.com/in/rodolfo-gabriel/) 
 [![Email Badge](https://img.shields.io/badge/-rdlfgbrl@outlook.com-6633cc?style=flat-square&logo=Email&logoColor=white&link=mailto:rdlfgbrl@outlook.com)](mailto:rdlfgbrl@outlook.com)
-
-<!--
-**rodgabriel/rodgabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
