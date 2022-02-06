@@ -4,12 +4,15 @@
 
 ### Desenvolvedor Front End
 
-Desenvolvedor self-taught. Entusiasta das tecnologias para desenvolvimento web com uma veia para o design.
+Atuando em aplicações white-label utilizadas por milhares de pequenos e médios varejistas e seus clientes por todo o Brasil.
 
 Principais tecnologias:
+- Javascript
+- Typescript
 - React
-- NODEJS
+- Redux
+- NodeJs
 - MongoDB
-- Firebase
+
 
 
