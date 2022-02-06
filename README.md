@@ -8,6 +8,7 @@
 Atuando em aplicações white-label utilizadas por milhares de pequenos e médios varejistas e seus clientes por todo o Brasil.
 
 Principais tecnologias:
+- HTML e CSS
 - Javascript
 - Typescript
 - React
